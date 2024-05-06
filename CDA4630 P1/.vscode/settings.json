@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
